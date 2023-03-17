@@ -62,6 +62,6 @@ You will host the results of this lab on GitHub Pages (please see the guide to h
 
 You need to edit this file to include the link for your instructors.
 
-**ADD link to your GitHub Pages Here**
+(https://mdclegacyi0.github.io/mdclegacy.github.io.css-media-queries/)
 
 Your instructor will us a combination of reading your code and viewing the results of your code to determine a grade.
